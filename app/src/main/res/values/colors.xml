@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/colors.xml -->
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background Colors -->
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorBackgroundDark">#E0E0E0</color>
+    <color name="colorBackgroundLight">#F5F5F5</color>
+
+    <!-- Text Colors -->
+    <color name="colorText">#333333</color>
+    <color name="colorTextSecondary">#757575</color>
+
+    <!-- Button Colors -->
+    <color name="colorButton">#4CAF50</color>
+    <color name="colorButtonDark">#388E3C</color>
+
+    <!-- Divider Color -->
+    <color name="colorDivider">#BDBDBD</color>
+
+    <!-- Custom Colors -->
+    <color name="colorCustom1">#FFD700</color>
+    <color name="colorCustom2">#FFA07A</color>
+
+    <!-- Additional Colors -->
+    <color name="colorPurple">#9C27B0</color>
+    <color name="colorOrange">#FF9800</color>
+    <color name="colorGreen">#8BC34A</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorBlue">#03A9F4</color>
+    <color name="colorYellow">#FFEB3B</color>
+    <color name="colorPink">#E91E63</color>
+    <color name="colorTeal">#009688</color>
+    <!-- Add more colors as needed -->
+</resources>
+

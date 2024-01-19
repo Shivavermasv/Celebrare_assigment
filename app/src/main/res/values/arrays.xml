@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="font_types">
+        <item>Font1.ttf</item>
+        <item>Font2.ttf</item>
+        <item>Font3.ttf</item>
+        <!-- Add more font names as needed -->
+    </string-array>
+    <string-array name="font_names_">
+        <item>Roboto1</item>
+        <item>Roboto2</item>
+        <item>Roboto3</item>
+        <item>Roboto4</item>
+        <item>RobotoIttalic</item>
+    </string-array>
+
+    <string-array name="colors">
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Accent</item>
+        <item>Orange</item>
+        <item>Pink</item>
+        <item>Purple</item>
+        <item>Teal</item>
+        <item>yellow</item>
+        <item>Gray</item>
+        <item>Pale</item>
+        <item>Greenish</item>
+    </string-array>
+
+</resources>
